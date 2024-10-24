@@ -17,6 +17,11 @@ console.log(`My name is ${fullName}`);  //`` it's called backtick
 console.log(fullName1); //let call last value
 
 
+import {addNumber, sub} from './calculate.js'; 
+console.log (addNumber(30, 20));
+console.log (sub(30, 20));
+
+
 
 
 
