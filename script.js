@@ -14,7 +14,9 @@ console.log(`My name is ${fullName}`);  //`` it's called backtick
 
  fullName = 'Ali';
 
-    console.log(fullName1); //let call last value
+console.log(fullName1); //let call last value
+
+
 
 
 
