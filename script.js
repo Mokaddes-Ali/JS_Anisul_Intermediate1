@@ -22,6 +22,10 @@ console.log (addNumber(30, 20));
 console.log (sub(30, 20));
 
 
+import {person} from './person.js';
+console.log(person.perInfo());
+
+
 
 
 
