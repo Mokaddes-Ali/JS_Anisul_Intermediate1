@@ -49,7 +49,6 @@ const addNumber1 = (message, ...numbers) => {
         sum += number;
         
     }
-   
         return sum;
     };
 
